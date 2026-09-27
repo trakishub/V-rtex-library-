@@ -1278,7 +1278,7 @@ local function ButtonFrame(Instance, Title, Description, HolderSize)
         Position = UDim2.new(0, 12, 0, 15),
         BackgroundTransparency = 1,
         TextWrapped = true,
-        TextSize = 8,
+        TextSize = 15,
         TextXAlignment = "Left",
         Text = "",
         RichText = true
